@@ -25,4 +25,4 @@ figma,pinterest e google.
 https://www.figma.com/proto/aa7doAm9NJ2Glm2kx6N0eP/Untitled?node-id=1-3&p=f&t=rf8zPhf8DDNoIUoV-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
 
 # link para contado:emylle.viana@aluno.senai.br
-# Autora:EMYLLE 
+# Autora:EMYLLE. 
